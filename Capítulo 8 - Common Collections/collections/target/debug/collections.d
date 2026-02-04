@@ -1,0 +1,1 @@
+/home/cachoeira/Documents/rust/rust/Capítulo\ 8\ -\ Common\ Collections/collections/target/debug/collections: /home/cachoeira/Documents/rust/rust/Capítulo\ 8\ -\ Common\ Collections/collections/src/main.rs
