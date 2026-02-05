@@ -1,0 +1,1 @@
+/home/cachoeira/Documents/rust/rust/Capítulo\ 8\ -\ Common\ Collections/summary_exercises/target/debug/summary_exercises: /home/cachoeira/Documents/rust/rust/Capítulo\ 8\ -\ Common\ Collections/summary_exercises/src/main.rs
