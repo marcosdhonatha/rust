@@ -98,3 +98,9 @@ mod tests {
 
 
 //Improving Our I/O Project
+
+// Closures and iterators are Rust features inspired by functional program-
+// ming language ideas. They contribute to Rust’s capability to clearly express
+// high-level ideas at low-level performance. The implementations of closures
+// and iterators are such that runtime performance is not affected. This is part
+// of Rust’s goal to strive to provide zero-cost abstractions.
